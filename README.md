@@ -3,7 +3,7 @@
 Turns a messy weekly operational data export into a clean, formatted Excel
 report **and** an AI-written executive summary — with zero manual work.
 
-![Report](report_screenshot.png)
+![Report](report_screenshot2.png)
 
 ## Problem
 Ops and Client Success teams spend hours every week cleaning exports and
