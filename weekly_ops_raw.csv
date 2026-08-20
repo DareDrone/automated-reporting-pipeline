@@ -1,0 +1,811 @@
+week,client_id,industry,plan_type,mrr,payment_status,support_tickets,active_flag,new_client,churned
+2026-W30,CLT-1000,Logistics,Pro,898.42,Late,1,1,0,0
+2026-W30,CLT-1001,Finance,Enterprise,3178.72,Late,5,0,0,0
+2026-W30,CLT-1002,Logistics,Pro,827.83,Paid,5,1,0,0
+2026-W30,CLT-1003,eCommerce,Basic,$324.45,Paid,2,0,0,0
+2026-W30,CLT-1004,Finance,Basic,267.36,late,1,1,0,0
+2026-W30,CLT-1005,Education,Enterprise,3211.11,Paid,2,1,0,0
+2026-W30,CLT-1006,Healthcare,Basic,332.68,Paid,4,1,0,0
+2026-W30,CLT-1007,Healthcare,Pro,1090.48,Paid,1,1,0,0
+2026-W30,CLT-1008,Logistics,Pro,879.18,Paid,2,1,0,0
+2026-W30,CLT-1009,Education,Basic,363.24,Late,4,1,1,0
+2026-W30,CLT-1010,Logistics,Basic,349.88,Late,2,1,0,0
+2026-W30,CLT-1011,Finance,Basic,341.9,late,1,1,0,0
+2026-W30,CLT-1012,SaaS,Basic,383.33,Paid,2,1,0,0
+2026-W30,CLT-1013,Finance,Basic,313.52,Paid,1,1,0,0
+2026-W30,CLT-1014,Real Estate,Pro,933.11,Paid,4,1,0,0
+2026-W30,CLT-1015,eCommerce,Pro,1045.31,Paid,0,0,0,1
+2026-W30,CLT-1016,eCommerce,Enterprise,3064.44,Paid,0,1,0,0
+2026-W30,CLT-1017,Real Estate,Pro,900.71,Paid,2,1,0,0
+2026-W30,CLT-1018,Healthcare,Pro,1036.21,Paid,3,1,0,0
+2026-W30,CLT-1019,Finance,Enterprise,2360.17,Paid,1,1,1,0
+2026-W30,CLT-1020,Real Estate,Basic,329.48,Paid,0,1,0,0
+2026-W30,CLT-1021,Finance,Basic,358.84,Paid,2,1,0,0
+2026-W30,CLT-1022,Logistics,Pro,791.45,Paid,0,1,0,0
+2026-W30,CLT-1023,Healthcare,Basic,353.26,Paid,2,0,0,0
+2026-W30,CLT-1024,Healthcare,Basic,257.08,Late,3,1,0,0
+2026-W30,CLT-1025,Finance,Pro,1153.13,Paid,4,1,0,0
+2026-W30,CLT-1026,Logistics,Basic,318.27,Paid,0,1,0,0
+2026-W30,CLT-1027,Healthcare,Enterprise,2585.2,Paid,1,0,0,0
+2026-W30,CLT-1028,Education,Pro,"$1,056.78",Late,0,1,0,0
+2026-W30,CLT-1029,Healthcare,Pro,976.94,Paid,1,1,0,1
+2026-W30,CLT-1030,eCommerce,enterprise,353.66,Paid,4,1,0,0
+2026-W30,CLT-1031,Education,Basic,266.44,Late,2,1,0,0
+2026-W30,CLT-1032,SaaS,Basic,330.98,Paid,2,1,0,0
+2026-W30,CLT-1033,Real Estate,Basic,330.34,Paid,1,1,0,0
+2026-W30,CLT-1034,Healthcare,Pro,"$1,142.51",Paid,3,1,0,0
+2026-W30,CLT-1035,Real Estate,Basic,260.35,Overdue,1,1,0,0
+2026-W30,CLT-1036,eCommerce,Basic,316.13,Paid,4,1,0,0
+2026-W30,CLT-1037,Healthcare,Basic,340.19,Paid,3,0,0,0
+2026-W30,CLT-1038,SaaS,enterprise,988.05,Overdue,1,1,0,0
+2026-W30,CLT-1039,Real Estate,Basic,265.01,Paid,3,1,0,0
+2026-W30,CLT-1040,Education,Basic,335.09,Paid,0,0,0,0
+2026-W30,CLT-1041,SaaS,Enterprise,,Paid,1,0,0,0
+2026-W30,CLT-1042,eCommerce,Pro,844.2,Paid,2,1,0,0
+2026-W30,CLT-1043,SaaS,Pro,1120.87,Paid,3,1,0,0
+2026-W30,CLT-1044,Education,Pro,845.13,Paid,3,1,0,0
+2026-W30,CLT-1045,Education,Pro,948.99,Paid,2,1,0,0
+2026-W30,CLT-1046,SaaS,Basic,356.29,Paid,2,1,0,0
+2026-W30,CLT-1047,Real Estate,enterprise,1051.46,Late,1,1,0,0
+2026-W30,CLT-1048,Real Estate,Pro,989.15,Late,1,0,0,0
+2026-W30,CLT-1049,Logistics,Enterprise,3032.93,Paid,1,0,0,0
+2026-W30,CLT-1050,Healthcare,Basic,317.89,Paid,2,1,0,0
+2026-W30,CLT-1051,Education,Pro,1016.26,Paid,0,1,0,0
+2026-W30,CLT-1052,Real Estate,Basic,365.55,Paid,3,1,0,0
+2026-W30,CLT-1053,eCommerce,Basic,346.54,Paid,1,1,0,0
+2026-W30,CLT-1054,Real Estate,Basic,341.65,Late,3,1,0,0
+2026-W30,CLT-1055,eCommerce,Basic,309.83,Paid,4,1,0,0
+2026-W30,CLT-1056,Real Estate,Pro,991.12,Paid,4,1,0,0
+2026-W30,CLT-1057,eCommerce,Basic,308.47,Paid,2,1,0,0
+2026-W30,CLT-1058,Real Estate,Enterprise,2962.33,Paid,1,1,0,0
+2026-W30,CLT-1059,Healthcare,Pro,919.07,Paid,1,1,0,0
+2026-W30,CLT-1060,Real Estate,Pro,953.98,Paid,6,1,0,0
+2026-W30,CLT-1061,Education,Pro,1070.96,Paid,1,1,1,1
+2026-W30,CLT-1062,Logistics,Pro,968.98,Overdue,2,1,0,0
+2026-W30,CLT-1063,Healthcare,Basic,300.63,Paid,1,1,0,0
+2026-W30,CLT-1064,Real Estate,Basic,366.62,Paid,1,1,1,0
+2026-W30,CLT-1065,Healthcare,Basic,306.43,Paid,3,1,1,0
+2026-W30,CLT-1066,Healthcare,Basic,369.04,Paid,1,1,0,0
+2026-W30,CLT-1067,Logistics,Basic,361.01,Paid,3,1,0,0
+2026-W30,CLT-1068,Education,Enterprise,2628.2,Paid,1,1,0,0
+2026-W30,CLT-1069,eCommerce,Basic,351.24,Paid,1,1,0,0
+2026-W30,CLT-1070,eCommerce,Pro,778.93,,2,1,0,0
+2026-W30,CLT-1071,SaaS,Basic,307.62,Late,1,1,0,0
+2026-W30,CLT-1072,Finance,Enterprise,3092.88,Paid,2,1,0,0
+2026-W30,CLT-1073,Logistics,Pro,999.71,Paid,2,1,0,0
+2026-W30,CLT-1074,eCommerce,Basic,330.31,Paid,5,1,0,0
+2026-W30,CLT-1075,Education,Pro,1034.22,Late,1,1,0,0
+2026-W30,CLT-1076,Healthcare,Enterprise,2887.38,Paid,2,1,1,0
+2026-W30,CLT-1077,Healthcare,Enterprise,,Paid,0,1,0,0
+2026-W30,CLT-1078,Real Estate,Pro,935.35,Paid,1,1,0,0
+2026-W30,CLT-1079,Logistics,Basic,279.77,Overdue,3,1,0,0
+2026-W30,CLT-1080,Logistics,Basic,294.51,Overdue,2,1,0,0
+2026-W30,CLT-1081,SaaS,Enterprise,2454.54,Paid,1,1,0,0
+2026-W30,CLT-1082,Education,Pro,939.45,Overdue,1,1,0,0
+2026-W30,CLT-1083,Healthcare,Basic,389.87,Paid,2,1,0,0
+2026-W30,CLT-1084,Finance,Enterprise,2521.62,Paid,2,1,0,0
+2026-W30,CLT-1085,Logistics,Pro,946.19,Paid,3,0,1,0
+2026-W30,CLT-1086,Finance,Pro,915.51,Paid,3,1,0,0
+2026-W30,CLT-1087,eCommerce,Basic,333.49,Paid,2,0,0,0
+2026-W30,CLT-1088,Logistics,Basic,382.97,Paid,1,1,0,0
+2026-W30,CLT-1089,Healthcare,Basic,375.02,Paid,2,1,0,0
+2026-W30,CLT-1090,Finance,Basic,$305.91,Paid,1,1,0,0
+2026-W30,CLT-1091,Logistics,Enterprise,2425.26,Paid,0,1,0,0
+2026-W30,CLT-1092,Education,Basic,374.39,Late,3,1,0,0
+2026-W30,CLT-1093,Logistics,Pro,965.0,Overdue,0,1,1,0
+2026-W30,CLT-1094,Education,Basic,347.55,Paid,3,1,0,1
+2026-W30,CLT-1095,eCommerce,Pro,794.68,Paid,1,1,0,0
+2026-W30,CLT-1096,eCommerce,Basic,371.99,Paid,4,1,0,0
+2026-W30,CLT-1097,Logistics,Basic,297.25,Paid,1,0,0,0
+2026-W30,CLT-1098,eCommerce,Basic,321.76,Overdue,2,1,0,1
+2026-W30,CLT-1099,SaaS,Basic,$281.73,Paid,1,1,0,0
+2026-W30,CLT-1100,Real Estate,Enterprise,2597.77,Late,1,0,0,0
+2026-W30,CLT-1101,Finance,Pro,1100.36,Paid,2,1,1,0
+2026-W30,CLT-1102,Healthcare,Basic,366.72,Paid,2,1,1,1
+2026-W30,CLT-1103,eCommerce,Pro,956.84,Paid,2,1,0,0
+2026-W30,CLT-1104,Education,Enterprise,2988.9,Paid,2,1,1,0
+2026-W30,CLT-1105,eCommerce,Basic,316.84,Late,3,1,0,0
+2026-W30,CLT-1106,Education,Pro,916.21,Paid,3,1,0,0
+2026-W30,CLT-1107,eCommerce,Pro,986.09,Paid,2,1,0,0
+2026-W30,CLT-1108, Healthcare ,Basic,282.18,,2,1,0,0
+2026-W30,CLT-1109,Finance,Pro,893.21,Paid,1,1,0,0
+2026-W30,CLT-1110,Logistics,Pro,1051.14,Paid,2,0,0,0
+2026-W30,CLT-1111,Healthcare,Enterprise,"$2,991.83",Paid,1,1,0,0
+2026-W30,CLT-1112,Real Estate,enterprise,262.66,Paid,1,1,0,0
+2026-W30,CLT-1113,Logistics,Enterprise,2949.43,Paid,2,1,0,0
+2026-W30,CLT-1114,SaaS,Basic,365.35,Paid,4,0,0,0
+2026-W30,CLT-1115,Finance,Pro,945.3,Late,2,1,0,0
+2026-W30,CLT-1116,Real Estate,Pro,790.29,Paid,2,1,0,0
+2026-W30,CLT-1117,Finance,Basic,347.19,Paid,2,1,0,0
+2026-W30,CLT-1118,Education,Basic,,late,1,1,0,0
+2026-W30,CLT-1119,SaaS,Pro,1025.56,Paid,1,1,0,0
+2026-W30,CLT-1120,Education,Basic,305.84,Paid,5,1,0,0
+2026-W30,CLT-1121,Real Estate,Pro,1023.05,Paid,0,1,0,0
+2026-W30,CLT-1122,Finance,Pro,869.54,Late,1,1,0,0
+2026-W30,CLT-1123,Logistics,Pro,958.0,Paid,1,1,0,0
+2026-W30,CLT-1124,eCommerce,Pro,977.49,Late,1,1,0,0
+2026-W30,CLT-1125,Logistics,Basic,$340.19,,0,1,0,0
+2026-W30,CLT-1126,Healthcare,Basic,282.43,Late,1,1,0,0
+2026-W30,CLT-1127,Healthcare,Basic,384.88,Paid,5,1,0,0
+2026-W30,CLT-1128, Healthcare ,Basic,294.03,Paid,6,1,0,0
+2026-W30,CLT-1129,Healthcare,Basic,296.31,Paid,0,1,0,0
+2026-W30,CLT-1130,Finance,Enterprise,2413.35,Paid,2,1,0,0
+2026-W30,CLT-1131,SaaS,Pro,792.33,Paid,3,0,0,0
+2026-W30,CLT-1132,Healthcare,Basic,312.09,Paid,1,1,0,0
+2026-W30,CLT-1133,SaaS,Basic,359.2,Paid,2,1,0,0
+2026-W30,CLT-1134,Education,Enterprise,2923.26,Overdue,2,1,0,0
+2026-W30,CLT-1135,Real Estate,Basic,281.4,Paid,2,1,0,0
+2026-W30,CLT-1136,eCommerce,Enterprise,2279.05,Paid,2,1,0,0
+2026-W30,CLT-1137,SaaS,Pro,895.18,Paid,3,1,0,0
+2026-W30,CLT-1138,Education,Pro,1076.14,Late,1,1,0,0
+2026-W30,CLT-1139,eCommerce,Enterprise,2674.09,Paid,1,1,0,0
+2026-W30,CLT-1140,Education,enterprise,1138.89,Paid,4,1,0,0
+2026-W30,CLT-1141,Healthcare,Pro,1030.84,Paid,1,1,0,0
+2026-W30,CLT-1142,Real Estate,Basic,338.82,Paid,4,1,0,0
+2026-W30,CLT-1143,SaaS,Enterprise,2988.65,Paid,1,1,0,0
+2026-W30,CLT-1144,Real Estate,Basic,356.28,Paid,6,1,0,0
+2026-W30,CLT-1145,SaaS,Enterprise,2511.82,Paid,1,0,0,0
+2026-W30,CLT-1146,eCommerce,Basic,289.7,Late,0,1,1,0
+2026-W30,CLT-1147,Finance,Basic,314.08,Paid,3,1,0,0
+2026-W30,CLT-1148,Finance,enterprise,963.15,Paid,2,1,0,0
+2026-W30,CLT-1149,Real Estate,Enterprise,2284.44,Paid,4,1,0,0
+2026-W30,CLT-1150,Finance,Basic,314.58,Paid,4,1,0,0
+2026-W30,CLT-1151,eCommerce,Pro,1024.13,Paid,4,1,0,0
+2026-W30,CLT-1152,Logistics,Pro,819.96,Paid,3,1,0,0
+2026-W30,CLT-1153,Logistics,Pro,820.91,Overdue,2,1,0,0
+2026-W30,CLT-1154,Finance,Pro,835.36,Paid,2,1,0,0
+2026-W30,CLT-1155,SaaS,Enterprise,2443.75,Paid,4,1,0,0
+2026-W30,CLT-1156,Logistics,Basic,384.83,Paid,0,1,0,0
+2026-W30,CLT-1157,eCommerce,Basic,258.48,Late,4,1,0,0
+2026-W30,CLT-1158,Healthcare,Basic,279.8,Paid,2,1,0,0
+2026-W30,CLT-1159,Finance,Basic,277.28,Paid,1,1,0,0
+2026-W30,CLT-1160,Logistics,Basic,319.04,,1,1,0,0
+2026-W30,CLT-1161,Finance,Enterprise,2141.96,Paid,0,1,0,0
+2026-W30,CLT-1162,eCommerce,Pro,950.56,Overdue,3,1,0,0
+2026-W30,CLT-1163,Logistics,Basic,276.99,Paid,2,1,0,0
+2026-W30,CLT-1164,Finance,Pro,874.2,Paid,3,0,0,0
+2026-W30,CLT-1165,SaaS,Basic,361.98,Late,2,0,0,0
+2026-W30,CLT-1166,Finance,Pro,839.55,Paid,0,1,0,0
+2026-W30,CLT-1167,Healthcare,Pro,1014.94,Late,2,1,0,0
+2026-W30,CLT-1168,Healthcare,enterprise,$309.85,Paid,4,1,0,0
+2026-W30,CLT-1169,SaaS,Enterprise,2594.8,Paid,5,1,0,0
+2026-W30,CLT-1170,Education,Basic,365.27,Paid,6,0,0,0
+2026-W30,CLT-1171,eCommerce,Pro,830.17,Paid,3,1,0,0
+2026-W30,CLT-1172,Finance,Pro,1139.14,,2,1,0,0
+2026-W30,CLT-1173,SaaS,Basic,375.62,Overdue,2,1,0,0
+2026-W30,CLT-1174,SaaS,Basic,345.22,Late,2,1,0,0
+2026-W30,CLT-1175,SaaS,Basic,261.68,Paid,2,1,0,0
+2026-W30,CLT-1176,Logistics,Pro,1033.64,Paid,4,1,0,0
+2026-W30,CLT-1177,Logistics,Pro,1008.14,Late,3,1,0,0
+2026-W30,CLT-1178,eCommerce,Pro,1077.74,Paid,1,1,0,0
+2026-W30,CLT-1179,SaaS,Basic,283.87,Paid,1,1,1,0
+2026-W30,CLT-1180,eCommerce,Enterprise,3197.53,Paid,2,1,0,0
+2026-W30,CLT-1181,eCommerce,Pro,1123.91,Paid,1,1,0,0
+2026-W30,CLT-1182,Education,Enterprise,2253.65,Paid,1,1,0,0
+2026-W30,CLT-1183,Finance,Pro,892.66,Paid,4,0,0,0
+2026-W30,CLT-1184,Healthcare,Enterprise,2161.5,Late,2,1,0,0
+2026-W30,CLT-1185,Healthcare,Basic,367.18,Late,1,0,1,0
+2026-W30,CLT-1186,Real Estate,Basic,378.54,Paid,1,1,0,0
+2026-W30,CLT-1187,Healthcare,Basic,388.62,Paid,0,1,0,0
+2026-W30,CLT-1188,eCommerce,Basic,337.61,Paid,5,1,0,0
+2026-W30,CLT-1189,SaaS,enterprise,,Overdue,3,1,0,0
+2026-W30,CLT-1190,Logistics,enterprise,346.58,Paid,4,1,0,0
+2026-W30,CLT-1191,Education,Pro,995.91,Paid,2,1,0,0
+2026-W30,CLT-1192,Real Estate,Basic,383.58,Late,1,1,0,0
+2026-W30,CLT-1193,Logistics,Pro,1011.18,Paid,2,1,0,0
+2026-W30,CLT-1194,SaaS,Basic,300.32,Paid,2,1,1,0
+2026-W30,CLT-1195,Real Estate,Pro,$972.72,Paid,2,1,0,0
+2026-W30,CLT-1196,Logistics,Basic,257.52,Paid,1,1,0,0
+2026-W30,CLT-1197,Logistics,Basic,352.76,Late,0,0,0,0
+2026-W30,CLT-1198,SaaS,Enterprise,2905.66,Paid,1,0,0,0
+2026-W30,CLT-1199,SaaS,Pro,935.53,Paid,5,1,0,0
+2026-W30,CLT-1200, Healthcare ,Pro,1109.85,Paid,1,1,0,0
+2026-W30,CLT-1201,eCommerce,Pro,1070.99,Paid,2,1,0,0
+2026-W30,CLT-1202,eCommerce,Pro,901.36,Paid,1,1,0,0
+2026-W30,CLT-1203,Logistics,Basic,265.46,Late,4,1,0,0
+2026-W30,CLT-1204,Education,Pro,818.55,Late,3,1,0,0
+2026-W30,CLT-1205,Finance,Basic,279.88,Overdue,2,1,0,0
+2026-W30,CLT-1206,Education,Pro,888.09,Paid,0,1,1,0
+2026-W30,CLT-1207,Education,Enterprise,2628.46,Paid,1,1,0,0
+2026-W30,CLT-1208,Finance,Enterprise,3169.0,Paid,1,1,0,0
+2026-W30,CLT-1209,Logistics,Basic,292.59,Overdue,0,1,0,0
+2026-W30,CLT-1210,Logistics,Basic,376.31,Paid,3,0,0,0
+2026-W30,CLT-1211,Real Estate,Basic,346.86,Paid,1,0,0,0
+2026-W30,CLT-1212,eCommerce,Basic,$370.22,Paid,1,0,0,0
+2026-W30,CLT-1213,SaaS,Pro,928.32,,4,1,0,0
+2026-W30,CLT-1214,SaaS,Pro,$766.33,Overdue,1,1,0,0
+2026-W30,CLT-1215,Finance,Basic,361.24,Paid,1,1,0,0
+2026-W30,CLT-1216,Healthcare,enterprise,2401.16,Late,2,1,0,0
+2026-W30,CLT-1217,SaaS,Pro,822.7,Late,0,1,0,0
+2026-W30,CLT-1218,SaaS,Basic,362.93,Paid,3,1,0,0
+2026-W30,CLT-1219,SaaS,Pro,1042.96,Paid,1,1,1,0
+2026-W30,CLT-1220,Healthcare,Enterprise,2363.97,Paid,0,1,0,0
+2026-W30,CLT-1221,Logistics,Basic,291.12,Paid,1,1,0,0
+2026-W30,CLT-1222,Education,Pro,1145.38,Paid,2,1,0,0
+2026-W30,CLT-1223,Education,Pro,873.76,Overdue,3,1,0,0
+2026-W30,CLT-1224,Finance,Pro,1049.47,Paid,1,1,0,0
+2026-W30,CLT-1225,Education,Basic,$272.49,Paid,1,1,0,1
+2026-W30,CLT-1226,eCommerce,Pro,1095.09,Overdue,0,1,0,0
+2026-W30,CLT-1227,Real Estate,Pro,812.62,Paid,0,1,0,0
+2026-W30,CLT-1228,Logistics,Pro,974.0,Overdue,3,1,0,0
+2026-W30,CLT-1229,eCommerce,Pro,779.26,Late,1,1,0,0
+2026-W30,CLT-1230,Logistics,Basic,$329.26,Paid,2,1,0,0
+2026-W30,CLT-1231,SaaS,Pro,1107.88,Paid,5,1,0,0
+2026-W30,CLT-1232,eCommerce,Enterprise,2219.95,Paid,3,1,0,0
+2026-W30,CLT-1233,Education,Enterprise,2433.54,Late,1,1,0,0
+2026-W30,CLT-1234,Healthcare,Basic,358.23,Paid,2,1,0,0
+2026-W30,CLT-1235,Finance,Basic,337.09,Paid,2,1,0,0
+2026-W30,CLT-1236,Education,Pro,891.68,Late,2,1,0,0
+2026-W30,CLT-1237,eCommerce,Basic,339.9,Paid,4,1,0,0
+2026-W30,CLT-1238,Finance,Pro,949.16,Paid,0,1,0,0
+2026-W30,CLT-1239,Finance,Enterprise,3095.15,Paid,5,1,1,0
+2026-W30,CLT-1240, Healthcare ,Basic,294.55,Paid,2,1,1,0
+2026-W30,CLT-1241,Healthcare,Basic,357.29,Paid,2,1,0,0
+2026-W30,CLT-1242,Finance,Basic,340.82,late,0,1,0,0
+2026-W30,CLT-1243,Healthcare,Pro,1064.87,Paid,0,1,0,0
+2026-W30,CLT-1244,Healthcare,Basic,306.07,Paid,2,1,0,0
+2026-W30,CLT-1245,Real Estate,Basic,352.86,Paid,2,1,0,0
+2026-W30,CLT-1246,Healthcare,Basic,349.29,Paid,3,1,0,0
+2026-W30,CLT-1247,SaaS,Pro,921.93,Paid,1,1,0,0
+2026-W30,CLT-1248, Healthcare ,Pro,775.71,Paid,2,1,0,0
+2026-W30,CLT-1249,Real Estate,Basic,384.99,Paid,2,1,0,0
+2026-W30,CLT-1250,Education,Basic,351.34,Late,2,1,0,0
+2026-W30,CLT-1251,eCommerce,Pro,847.92,Paid,3,1,0,0
+2026-W30,CLT-1252,eCommerce,Basic,353.66,Paid,3,1,0,0
+2026-W30,CLT-1253,Logistics,Basic,292.62,Paid,6,0,0,0
+2026-W30,CLT-1254,Logistics,Basic,318.35,Overdue,2,1,1,0
+2026-W30,CLT-1255,Real Estate,Basic,371.08,Paid,2,1,0,0
+2026-W30,CLT-1256,Logistics,Basic,315.49,Paid,2,1,0,0
+2026-W30,CLT-1257,Finance,Pro,881.64,Paid,3,1,0,0
+2026-W30,CLT-1258,Finance,Pro,888.72,Paid,0,1,0,0
+2026-W30,CLT-1259,Finance,Basic,265.4,Overdue,0,0,0,0
+2026-W30,CLT-1260,Finance,Basic,$284.63,Paid,5,1,0,0
+2026-W30,CLT-1261,Healthcare,Pro,874.8,Paid,2,1,0,0
+2026-W30,CLT-1262,Education,Basic,278.35,Paid,5,1,0,0
+2026-W30,CLT-1263,eCommerce,Basic,263.51,Paid,3,1,0,0
+2026-W30,CLT-1264,Finance,Basic,317.88,Overdue,2,1,0,0
+2026-W30,CLT-1265,Finance,Basic,$283.94,Paid,1,0,0,0
+2026-W30,CLT-1266,Real Estate,Enterprise,2956.12,Paid,1,1,0,0
+2026-W30,CLT-1267,Real Estate,Basic,379.54,Paid,0,1,0,0
+2026-W30,CLT-1268,SaaS,Basic,291.85,Paid,2,1,0,0
+2026-W30,CLT-1269, Healthcare ,Pro,996.76,Paid,2,1,0,0
+2026-W30,CLT-1270,eCommerce,Pro,970.22,Paid,4,1,0,0
+2026-W30,CLT-1271,SaaS,Basic,265.14,Overdue,2,1,0,0
+2026-W30,CLT-1272,Healthcare,Basic,271.86,Paid,4,1,0,0
+2026-W30,CLT-1273,Finance,Enterprise,3120.38,Paid,3,1,0,0
+2026-W30,CLT-1274,Logistics,Basic,319.01,Paid,3,1,0,0
+2026-W30,CLT-1275,Logistics,Pro,1090.87,late,1,1,0,0
+2026-W30,CLT-1276,Education,Basic,263.99,Paid,0,1,0,0
+2026-W30,CLT-1277,SaaS,Pro,1005.9,Paid,2,1,0,0
+2026-W30,CLT-1278,Logistics,Pro,1115.45,Paid,4,1,0,0
+2026-W30,CLT-1279,Real Estate,Pro,1116.16,Paid,6,1,0,0
+2026-W30,CLT-1280,SaaS,Pro,767.32,Paid,3,1,0,0
+2026-W30,CLT-1281,Real Estate,Basic,325.43,Paid,3,1,0,0
+2026-W30,CLT-1282,Logistics,Basic,304.82,Paid,1,1,0,0
+2026-W30,CLT-1283,Real Estate,Pro,,Paid,2,1,0,0
+2026-W30,CLT-1284,Finance,Pro,794.65,Late,1,0,0,0
+2026-W30,CLT-1285,Finance,Basic,290.77,Late,1,1,0,0
+2026-W30,CLT-1286,Healthcare,Basic,364.71,Paid,5,0,0,0
+2026-W30,CLT-1287,Finance,Pro,955.17,Paid,4,1,0,0
+2026-W30,CLT-1288,eCommerce,Pro,948.53,Late,0,1,0,0
+2026-W30,CLT-1289,SaaS,Enterprise,3214.63,Paid,2,1,0,0
+2026-W30,CLT-1290,Logistics,Basic,298.19,Paid,0,1,0,0
+2026-W30,CLT-1291,eCommerce,Basic,260.63,Paid,1,1,0,0
+2026-W30,CLT-1292,Healthcare,Pro,923.84,Paid,3,1,0,0
+2026-W30,CLT-1293,Healthcare,Pro,827.12,Overdue,1,1,0,0
+2026-W30,CLT-1294,Logistics,enterprise,798.17,Paid,2,1,0,1
+2026-W30,CLT-1295,Education,Enterprise,2763.84,Overdue,4,1,0,0
+2026-W30,CLT-1296,Finance,enterprise,3197.77,Paid,3,1,0,0
+2026-W30,CLT-1297,Logistics,Pro,999.66,Paid,2,1,0,0
+2026-W30,CLT-1298,Finance,Pro,1027.08,Paid,1,1,0,0
+2026-W30,CLT-1299,Education,Basic,298.69,Late,1,1,0,0
+2026-W30,CLT-1300,Finance,Pro,996.3,Paid,2,1,0,0
+2026-W30,CLT-1301,Logistics,Basic,356.55,Paid,1,0,0,0
+2026-W30,CLT-1302,SaaS,Pro,1003.66,Paid,5,1,0,0
+2026-W30,CLT-1303,eCommerce,Pro,1090.13,Paid,0,1,0,0
+2026-W30,CLT-1304,Healthcare,Pro,987.94,Paid,1,1,0,0
+2026-W30,CLT-1305,Education,Basic,281.75,Paid,0,1,0,0
+2026-W30,CLT-1306,Healthcare,Basic,333.67,Paid,3,1,0,0
+2026-W30,CLT-1307,SaaS,Basic,321.28,Paid,2,1,0,0
+2026-W30,CLT-1308,Real Estate,Basic,277.4,Late,5,1,0,0
+2026-W30,CLT-1309,Logistics,Pro,1015.76,Paid,1,1,0,0
+2026-W30,CLT-1310,Finance,Pro,1095.87,Paid,1,1,0,0
+2026-W30,CLT-1311,eCommerce,Basic,273.24,Paid,0,1,0,0
+2026-W30,CLT-1312,Healthcare,Pro,985.7,Paid,3,1,0,0
+2026-W30,CLT-1313,Real Estate,Pro,1062.14,Paid,6,0,0,0
+2026-W30,CLT-1314,Real Estate,Basic,309.41,Paid,1,1,0,0
+2026-W30,CLT-1315,Finance,Pro,874.37,Paid,1,1,0,0
+2026-W30,CLT-1316,Healthcare,Enterprise,2543.82,Paid,1,1,1,0
+2026-W30,CLT-1317,Real Estate,Basic,328.13,Paid,2,1,0,0
+2026-W30,CLT-1318,eCommerce,Basic,347.7,Paid,3,1,0,0
+2026-W30,CLT-1319,SaaS,Pro,,Paid,1,1,0,0
+2026-W30,CLT-1320,Healthcare,Enterprise,2245.4,Paid,2,0,0,0
+2026-W30,CLT-1321,Real Estate,Basic,365.41,Paid,3,1,0,0
+2026-W30,CLT-1322,eCommerce,Pro,1139.16,Paid,0,0,0,0
+2026-W30,CLT-1323,Logistics,Pro,806.02,late,0,1,0,0
+2026-W30,CLT-1324,Healthcare,enterprise,,Paid,4,1,0,1
+2026-W30,CLT-1325,SaaS,Basic,278.45,Late,1,1,0,0
+2026-W30,CLT-1326,Real Estate,Basic,369.64,Late,6,1,0,0
+2026-W30,CLT-1327,eCommerce,Enterprise,3149.06,Paid,2,0,0,0
+2026-W30,CLT-1328,Education,Basic,260.98,Paid,1,1,0,0
+2026-W30,CLT-1329,SaaS,Basic,299.88,Paid,0,1,0,0
+2026-W30,CLT-1330,Education,Pro,842.96,Paid,3,1,0,0
+2026-W30,CLT-1331,Real Estate,Basic,318.39,Paid,2,1,0,0
+2026-W30,CLT-1332,Education,Pro,1138.24,Paid,1,1,0,0
+2026-W30,CLT-1333,Healthcare,Basic,264.47,late,5,1,0,0
+2026-W30,CLT-1334,Finance,Enterprise,2317.69,Paid,4,1,0,0
+2026-W30,CLT-1335,Real Estate,Basic,320.75,Paid,3,0,0,0
+2026-W30,CLT-1336,Finance,Pro,977.23,Paid,3,1,0,0
+2026-W30,CLT-1337,Healthcare,Basic,355.64,Paid,1,1,0,0
+2026-W30,CLT-1338,Education,Basic,314.09,Paid,1,1,0,0
+2026-W30,CLT-1339,Logistics,Basic,274.05,Paid,1,1,0,0
+2026-W30,CLT-1340, Healthcare ,Basic,302.74,Paid,2,1,0,0
+2026-W30,CLT-1341,eCommerce,Basic,$387.58,Paid,1,0,0,0
+2026-W30,CLT-1342,Real Estate,Pro,1069.04,Paid,2,1,0,0
+2026-W30,CLT-1343,Finance,Basic,,Paid,2,1,0,0
+2026-W30,CLT-1344,eCommerce,Basic,364.11,Paid,3,1,0,0
+2026-W30,CLT-1345,Finance,Enterprise,2474.79,Paid,4,1,0,0
+2026-W30,CLT-1346,Finance,Enterprise,3004.07,Paid,4,1,0,0
+2026-W30,CLT-1347,Real Estate,Enterprise,2139.31,Paid,4,0,0,0
+2026-W30,CLT-1348,Education,Basic,,Paid,1,1,0,0
+2026-W30,CLT-1349,Real Estate,Basic,,Paid,2,1,0,0
+2026-W30,CLT-1350,Logistics,Basic,$316.53,Late,1,1,0,0
+2026-W30,CLT-1351,Finance,Basic,344.34,,2,1,0,0
+2026-W30,CLT-1352,Education,Basic,$323.56,Paid,0,1,1,0
+2026-W30,CLT-1353,Healthcare,Pro,831.99,Paid,3,1,1,0
+2026-W30,CLT-1354,Logistics,Basic,273.78,Paid,3,1,0,0
+2026-W30,CLT-1355,Education,Basic,$293.41,Late,2,1,0,1
+2026-W30,CLT-1356,Logistics,Enterprise,2183.94,Paid,6,1,0,0
+2026-W30,CLT-1357,Healthcare,Basic,284.23,Paid,2,1,0,0
+2026-W30,CLT-1358,Education,Basic,272.56,Paid,2,1,0,0
+2026-W30,CLT-1359,Education,Pro,953.24,Paid,1,1,0,0
+2026-W30,CLT-1360,Logistics,Basic,303.13,Paid,4,1,0,0
+2026-W30,CLT-1361,Healthcare,Pro,1002.67,Paid,1,1,1,0
+2026-W30,CLT-1362,Real Estate,Basic,292.92,Paid,3,1,0,0
+2026-W30,CLT-1363,Logistics,Pro,778.73,Overdue,6,0,0,0
+2026-W30,CLT-1364,eCommerce,Pro,$899.10,Paid,2,1,0,0
+2026-W30,CLT-1365,Finance,Pro,1070.85,Paid,2,1,0,0
+2026-W30,CLT-1366,Logistics,Basic,289.54,Paid,5,1,0,0
+2026-W30,CLT-1367,SaaS,Pro,$928.84,Paid,0,0,0,0
+2026-W30,CLT-1368,eCommerce,Enterprise,2974.35,Paid,4,0,0,0
+2026-W30,CLT-1369,Education,Basic,309.9,Paid,5,1,0,0
+2026-W30,CLT-1370,Logistics,Basic,$374.76,Late,3,0,0,0
+2026-W30,CLT-1371,Real Estate,Basic,378.94,Paid,0,1,0,0
+2026-W30,CLT-1372,Real Estate,Enterprise,2474.35,Paid,2,1,0,0
+2026-W30,CLT-1373,Healthcare,enterprise,2952.96,Paid,0,0,0,0
+2026-W30,CLT-1374,Finance,Basic,289.17,Late,1,1,1,0
+2026-W30,CLT-1375,Healthcare,Enterprise,2281.96,Overdue,6,1,0,0
+2026-W30,CLT-1376,Education,Basic,314.11,Paid,3,1,0,0
+2026-W30,CLT-1377,SaaS,Pro,"$1,009.00",Late,2,1,0,0
+2026-W30,CLT-1378,Real Estate,Basic,381.3,Overdue,2,1,0,0
+2026-W30,CLT-1379,eCommerce,Enterprise,2289.14,Paid,2,1,0,0
+2026-W30,CLT-1380,Healthcare,Basic,351.17,Paid,5,1,0,0
+2026-W30,CLT-1381,Logistics,Basic,319.19,Paid,2,0,0,0
+2026-W30,CLT-1382,SaaS,Pro,818.34,Paid,4,1,0,0
+2026-W30,CLT-1383,SaaS,Basic,386.31,Paid,5,1,0,0
+2026-W30,CLT-1384,Logistics,Basic,348.93,Late,0,1,0,0
+2026-W30,CLT-1385,Logistics,Basic,272.4,Paid,2,1,0,0
+2026-W30,CLT-1386,SaaS,Enterprise,3143.97,Paid,2,1,0,0
+2026-W30,CLT-1387,Finance,Pro,806.75,Paid,0,1,0,0
+2026-W30,CLT-1388,Real Estate,Pro,$802.53,Paid,0,0,1,0
+2026-W30,CLT-1389,Finance,Pro,899.28,Paid,2,1,0,0
+2026-W30,CLT-1390,SaaS,Pro,1144.87,Paid,5,1,0,0
+2026-W30,CLT-1391,Finance,Pro,778.37,Paid,4,1,0,0
+2026-W30,CLT-1392,Logistics,Pro,1136.87,Paid,0,1,0,0
+2026-W30,CLT-1393,Education,Pro,"$1,012.70",Paid,4,1,0,0
+2026-W30,CLT-1394,Education,Basic,264.05,Paid,2,1,0,0
+2026-W30,CLT-1395,eCommerce,Basic,331.76,Paid,1,1,0,0
+2026-W30,CLT-1396,eCommerce,Pro,950.81,Paid,2,1,0,0
+2026-W30,CLT-1397,Finance,Basic,331.14,Paid,0,1,0,0
+2026-W30,CLT-1398,Real Estate,Enterprise,2954.35,Paid,1,1,0,0
+2026-W30,CLT-1399,eCommerce,Pro,1039.84,Paid,4,1,0,0
+2026-W31,CLT-1000,Real Estate,Basic,257.04,Paid,1,1,0,0
+2026-W31,CLT-1001,Logistics,Enterprise,2227.76,Paid,2,1,0,0
+2026-W31,CLT-1002,SaaS,Basic,357.91,Paid,2,1,1,0
+2026-W31,CLT-1003,Healthcare,Pro,1148.98,late,5,1,0,0
+2026-W31,CLT-1004,Healthcare,Enterprise,3223.82,Paid,3,1,0,0
+2026-W31,CLT-1005,SaaS,Basic,315.33,Paid,1,0,0,1
+2026-W31,CLT-1006,SaaS,Basic,355.69,Paid,2,0,0,0
+2026-W31,CLT-1007,SaaS,Basic,$365.42,Paid,1,1,0,0
+2026-W31,CLT-1008,eCommerce,Basic,262.42,Paid,3,1,0,0
+2026-W31,CLT-1009,eCommerce,Basic,328.47,,1,1,0,0
+2026-W31,CLT-1010,SaaS,Basic,358.57,Paid,5,1,0,0
+2026-W31,CLT-1011, Healthcare ,Basic,$307.44,Paid,4,1,0,0
+2026-W31,CLT-1012,Logistics,Basic,320.8,Paid,2,0,0,1
+2026-W31,CLT-1013,Logistics,Basic,257.31,late,3,1,0,0
+2026-W31,CLT-1014,Education,Pro,838.97,Paid,4,1,0,0
+2026-W31,CLT-1015,SaaS,Basic,274.75,,1,0,0,0
+2026-W31,CLT-1016,Healthcare,Basic,320.81,Paid,0,1,0,0
+2026-W31,CLT-1017,Real Estate,Pro,1141.85,Paid,2,0,0,0
+2026-W31,CLT-1018,Real Estate,Pro,1012.96,Paid,3,1,0,0
+2026-W31,CLT-1019,eCommerce,Pro,988.4,Paid,2,1,0,0
+2026-W31,CLT-1020,Education,Enterprise,2477.88,Late,1,1,0,0
+2026-W31,CLT-1021,eCommerce,Basic,268.5,Paid,6,1,0,0
+2026-W31,CLT-1022,Real Estate,Basic,317.43,Paid,1,0,0,0
+2026-W31,CLT-1023,Logistics,Basic,319.37,Late,1,0,0,0
+2026-W31,CLT-1024,Logistics,Basic,298.62,Late,2,1,0,0
+2026-W31,CLT-1025,Real Estate,Basic,262.94,Paid,2,0,0,0
+2026-W31,CLT-1026,Logistics,Basic,381.52,Paid,2,1,0,0
+2026-W31,CLT-1027,Logistics,Basic,$339.94,Overdue,1,1,0,0
+2026-W31,CLT-1028,Real Estate,Pro,994.89,Paid,1,1,0,0
+2026-W31,CLT-1029, Healthcare ,enterprise,333.46,Paid,1,1,0,0
+2026-W31,CLT-1030,Healthcare,Pro,,Paid,2,1,0,0
+2026-W31,CLT-1031,Finance,Basic,335.2,Paid,2,1,0,0
+2026-W31,CLT-1032,SaaS,Basic,343.82,Paid,1,1,0,0
+2026-W31,CLT-1033,SaaS,Basic,291.23,Paid,1,1,0,0
+2026-W31,CLT-1034,Healthcare,Basic,277.05,Paid,2,1,0,0
+2026-W31,CLT-1035,Real Estate,enterprise,333.29,Paid,2,1,0,0
+2026-W31,CLT-1036,Healthcare,Basic,363.89,Paid,1,1,0,0
+2026-W31,CLT-1037,SaaS,Pro,938.72,Paid,2,1,0,0
+2026-W31,CLT-1038,Finance,enterprise,2733.26,Paid,2,0,0,0
+2026-W31,CLT-1039,SaaS,Basic,263.05,Late,2,1,0,0
+2026-W31,CLT-1040,Education,Enterprise,2699.68,Paid,1,1,0,0
+2026-W31,CLT-1041,Logistics,Pro,889.02,Paid,1,0,0,0
+2026-W31,CLT-1042,Finance,Enterprise,3031.34,Late,1,1,0,0
+2026-W31,CLT-1043,SaaS,Basic,,Paid,1,0,0,0
+2026-W31,CLT-1044,Finance,Basic,283.64,Late,3,1,0,0
+2026-W31,CLT-1045,Education,Pro,1079.25,Paid,2,1,0,0
+2026-W31,CLT-1046,Logistics,Pro,788.85,Late,2,1,0,0
+2026-W31,CLT-1047,eCommerce,enterprise,297.76,Late,2,1,0,0
+2026-W31,CLT-1048,eCommerce,Basic,327.31,Paid,4,1,0,0
+2026-W31,CLT-1049,eCommerce,Basic,$324.05,Paid,2,1,0,0
+2026-W31,CLT-1050,SaaS,Basic,327.71,Paid,6,1,0,0
+2026-W31,CLT-1051,Logistics,Pro,1158.46,Paid,2,1,1,0
+2026-W31,CLT-1052,Finance,enterprise,770.96,Paid,1,1,0,0
+2026-W31,CLT-1053,eCommerce,Pro,1046.17,Paid,3,1,0,0
+2026-W31,CLT-1054,SaaS,Basic,298.4,late,5,1,0,0
+2026-W31,CLT-1055,Logistics,Pro,881.69,Paid,4,1,0,0
+2026-W31,CLT-1056,Finance,Basic,263.42,Paid,2,1,0,0
+2026-W31,CLT-1057,Real Estate,Pro,863.81,Paid,2,1,0,1
+2026-W31,CLT-1058,Finance,enterprise,377.55,Paid,1,1,0,0
+2026-W31,CLT-1059,Finance,Basic,378.34,Paid,2,1,0,0
+2026-W31,CLT-1060,Finance,Basic,,Paid,2,1,0,0
+2026-W31,CLT-1061,Logistics,Basic,323.2,Paid,1,1,0,0
+2026-W31,CLT-1062,Real Estate,Basic,274.62,Late,3,1,1,0
+2026-W31,CLT-1063,Real Estate,Basic,$263.43,Late,0,1,0,0
+2026-W31,CLT-1064,eCommerce,Basic,295.33,Late,1,1,0,0
+2026-W31,CLT-1065,Real Estate,Basic,320.09,Paid,3,1,0,0
+2026-W31,CLT-1066,Finance,Pro,966.65,Paid,1,1,0,0
+2026-W31,CLT-1067,Finance,Basic,372.72,Paid,2,1,0,0
+2026-W31,CLT-1068,Education,Basic,321.15,Paid,3,1,0,0
+2026-W31,CLT-1069,Real Estate,Enterprise,3010.33,Paid,2,1,0,0
+2026-W31,CLT-1070,Education,Pro,870.09,Paid,1,1,0,0
+2026-W31,CLT-1071,Logistics,Pro,1159.23,Paid,1,1,0,0
+2026-W31,CLT-1072,Healthcare,Pro,1143.63,Late,2,1,1,0
+2026-W31,CLT-1073,Education,Basic,,Paid,1,1,0,0
+2026-W31,CLT-1074,Education,Basic,376.56,Paid,0,0,0,0
+2026-W31,CLT-1075,Logistics,Basic,337.09,Paid,2,0,0,0
+2026-W31,CLT-1076,SaaS,Basic,306.49,Paid,3,1,0,0
+2026-W31,CLT-1077,Logistics,Basic,301.33,Paid,1,1,0,0
+2026-W31,CLT-1078,Finance,Basic,318.09,Paid,1,1,0,0
+2026-W31,CLT-1079,Logistics,Enterprise,2190.26,Paid,4,1,0,0
+2026-W31,CLT-1080,eCommerce,Pro,1081.71,Paid,1,1,0,0
+2026-W31,CLT-1081,eCommerce,Basic,$292.42,Paid,2,1,0,0
+2026-W31,CLT-1082,Logistics,Basic,360.43,Paid,3,1,0,0
+2026-W31,CLT-1083,eCommerce,Pro,817.25,Paid,2,1,0,0
+2026-W31,CLT-1084,Education,Enterprise,"$2,660.81",Paid,0,1,0,0
+2026-W31,CLT-1085,Healthcare,Pro,820.01,Paid,2,1,0,0
+2026-W31,CLT-1086,Education,Basic,321.59,Paid,1,1,0,0
+2026-W31,CLT-1087,Real Estate,Basic,349.17,Paid,2,1,0,0
+2026-W31,CLT-1088,Education,Basic,327.26,Paid,4,0,0,0
+2026-W31,CLT-1089,Healthcare,Basic,275.51,Paid,3,0,0,0
+2026-W31,CLT-1090,Education,Enterprise,3182.54,Paid,1,1,0,0
+2026-W31,CLT-1091,Logistics,Basic,376.68,Paid,0,1,0,0
+2026-W31,CLT-1092,Logistics,Basic,383.19,Paid,3,1,0,0
+2026-W31,CLT-1093,Logistics,Pro,954.53,Paid,4,0,0,0
+2026-W31,CLT-1094,Healthcare,Enterprise,2723.83,Paid,1,0,0,0
+2026-W31,CLT-1095,Education,Pro,838.32,Paid,6,0,0,0
+2026-W31,CLT-1096,Healthcare,Basic,280.89,Paid,3,1,0,0
+2026-W31,CLT-1097,Logistics,Pro,1026.99,Paid,2,1,0,0
+2026-W31,CLT-1098,Healthcare,Basic,353.53,Paid,3,1,0,0
+2026-W31,CLT-1099,Finance,Basic,313.57,Overdue,1,1,0,0
+2026-W31,CLT-1100,Education,Pro,,Paid,2,1,0,0
+2026-W31,CLT-1101, Healthcare ,Basic,346.46,Paid,6,1,0,0
+2026-W31,CLT-1102,Healthcare,enterprise,"$2,678.18",Paid,2,1,0,0
+2026-W31,CLT-1103,Healthcare,Basic,310.45,Paid,3,1,0,0
+2026-W31,CLT-1104,Education,Basic,381.21,Late,6,1,0,0
+2026-W31,CLT-1105,Real Estate,Pro,832.89,Paid,5,1,0,0
+2026-W31,CLT-1106, Healthcare ,Pro,894.36,Paid,3,1,0,0
+2026-W31,CLT-1107,SaaS,Enterprise,3128.88,Paid,4,1,0,0
+2026-W31,CLT-1108,Finance,Pro,"$1,015.03",Paid,0,1,0,0
+2026-W31,CLT-1109,Logistics,Basic,331.57,Paid,1,1,0,0
+2026-W31,CLT-1110,SaaS,Pro,965.46,late,3,1,0,0
+2026-W31,CLT-1111,Finance,Basic,294.46,Paid,1,1,0,0
+2026-W31,CLT-1112,Logistics,Basic,345.77,Paid,4,1,0,0
+2026-W31,CLT-1113,Education,Pro,991.08,Paid,1,1,0,0
+2026-W31,CLT-1114,eCommerce,Pro,906.45,Paid,1,1,0,0
+2026-W31,CLT-1115,SaaS,Pro,979.88,Paid,3,0,0,0
+2026-W31,CLT-1116,Real Estate,Pro,986.64,Paid,3,1,1,0
+2026-W31,CLT-1117,Real Estate,Pro,1023.14,Paid,3,1,0,0
+2026-W31,CLT-1118,Finance,Pro,827.62,Paid,2,0,0,1
+2026-W31,CLT-1119,SaaS,Basic,260.23,Paid,0,0,0,0
+2026-W31,CLT-1120,SaaS,Pro,790.46,Paid,5,1,0,0
+2026-W31,CLT-1121,Education,Enterprise,2595.3,Paid,4,1,0,0
+2026-W31,CLT-1122,Finance,Basic,330.17,Paid,3,1,0,0
+2026-W31,CLT-1123,SaaS,Basic,362.09,Paid,2,1,0,0
+2026-W31,CLT-1124,Finance,Basic,316.6,Paid,2,1,0,0
+2026-W31,CLT-1125,Logistics,Basic,368.86,Overdue,3,1,0,0
+2026-W31,CLT-1126,Real Estate,Basic,316.0,Paid,1,1,0,0
+2026-W31,CLT-1127,SaaS,Basic,267.21,Paid,4,1,0,0
+2026-W31,CLT-1128,Real Estate,Pro,779.45,Paid,1,0,0,1
+2026-W31,CLT-1129,Education,Pro,972.47,Paid,4,1,0,0
+2026-W31,CLT-1130,Finance,Enterprise,2518.93,Paid,4,1,0,0
+2026-W31,CLT-1131,Logistics,Pro,803.35,Paid,0,1,0,0
+2026-W31,CLT-1132,Education,Basic,,Paid,4,1,0,0
+2026-W31,CLT-1133,Education,Pro,1083.27,Paid,2,1,0,0
+2026-W31,CLT-1134,Real Estate,Pro,1164.19,Paid,3,1,0,0
+2026-W31,CLT-1135,Education,Basic,262.16,Paid,2,1,0,0
+2026-W31,CLT-1136,Real Estate,Basic,262.2,Paid,2,1,0,0
+2026-W31,CLT-1137,Real Estate,Basic,264.27,Paid,2,0,0,0
+2026-W31,CLT-1138,Real Estate,Enterprise,2525.05,Paid,3,1,0,0
+2026-W31,CLT-1139,Finance,Basic,305.91,Paid,2,1,0,0
+2026-W31,CLT-1140,SaaS,Pro,880.77,Paid,5,1,0,0
+2026-W31,CLT-1141, Healthcare ,Basic,361.54,Paid,3,1,0,0
+2026-W31,CLT-1142,Finance,Pro,871.91,Paid,0,1,0,0
+2026-W31,CLT-1143, Healthcare ,Basic,302.0,Paid,2,1,0,0
+2026-W31,CLT-1144,SaaS,Pro,$913.84,Paid,7,1,0,0
+2026-W31,CLT-1145,Healthcare,Pro,938.12,Paid,1,1,0,0
+2026-W31,CLT-1146,SaaS,Enterprise,2384.67,Late,3,1,0,0
+2026-W31,CLT-1147,Healthcare,Pro,1039.94,Paid,1,1,0,0
+2026-W31,CLT-1148,SaaS,Enterprise,2742.71,Paid,1,1,0,0
+2026-W31,CLT-1149,Healthcare,Basic,342.67,Paid,2,1,0,0
+2026-W31,CLT-1150,Real Estate,Basic,$314.18,Paid,5,0,0,0
+2026-W31,CLT-1151,Education,Pro,889.56,Late,5,1,0,0
+2026-W31,CLT-1152,Logistics,Pro,959.3,Paid,3,1,0,0
+2026-W31,CLT-1153,SaaS,Basic,358.94,Late,4,1,0,0
+2026-W31,CLT-1154,Real Estate,Basic,381.93,Paid,2,1,0,0
+2026-W31,CLT-1155,eCommerce,Basic,355.82,Overdue,0,0,0,0
+2026-W31,CLT-1156,SaaS,Enterprise,2384.61,Paid,0,1,0,0
+2026-W31,CLT-1157,Finance,Basic,308.97,Paid,2,1,0,0
+2026-W31,CLT-1158,Education,Basic,351.23,Paid,0,1,1,0
+2026-W31,CLT-1159,Healthcare,Pro,1111.04,Paid,2,0,0,0
+2026-W31,CLT-1160,Real Estate,Basic,290.61,Paid,4,1,0,0
+2026-W31,CLT-1161,Education,Basic,282.02,Paid,2,1,0,0
+2026-W31,CLT-1162,SaaS,Pro,828.98,Paid,2,1,0,0
+2026-W31,CLT-1163,eCommerce,Basic,348.61,Paid,2,1,0,0
+2026-W31,CLT-1164,Real Estate,Basic,280.83,Paid,4,1,1,1
+2026-W31,CLT-1165,Education,enterprise,2878.49,Paid,1,1,0,0
+2026-W31,CLT-1166,Education,Basic,329.57,Paid,3,1,0,0
+2026-W31,CLT-1167,SaaS,Pro,1086.01,Paid,3,0,0,0
+2026-W31,CLT-1168,Education,Pro,929.9,Paid,3,1,0,0
+2026-W31,CLT-1169,Logistics,Basic,334.54,Paid,2,1,0,0
+2026-W31,CLT-1170,Finance,Basic,380.38,Paid,0,1,0,0
+2026-W31,CLT-1171,SaaS,Pro,834.97,Late,0,1,0,0
+2026-W31,CLT-1172,Real Estate,Basic,308.93,Late,2,1,0,0
+2026-W31,CLT-1173,Logistics,Basic,330.07,Paid,2,1,0,0
+2026-W31,CLT-1174,eCommerce,Enterprise,3061.87,Paid,3,1,0,0
+2026-W31,CLT-1175, Healthcare ,Pro,928.14,Paid,4,1,0,0
+2026-W31,CLT-1176,eCommerce,Enterprise,2526.39,Paid,2,1,0,0
+2026-W31,CLT-1177,eCommerce,Enterprise,2862.04,Paid,1,1,0,0
+2026-W31,CLT-1178,Real Estate,Pro,$928.55,Paid,2,1,0,0
+2026-W31,CLT-1179,eCommerce,Basic,307.36,Paid,2,1,0,0
+2026-W31,CLT-1180,Healthcare,Pro,983.01,Paid,2,1,0,0
+2026-W31,CLT-1181,SaaS,enterprise,280.56,Paid,1,0,0,0
+2026-W31,CLT-1182,eCommerce,Basic,257.53,Paid,1,1,0,0
+2026-W31,CLT-1183,Healthcare,Basic,317.17,Late,0,1,0,0
+2026-W31,CLT-1184,eCommerce,Pro,998.2,Paid,1,1,0,0
+2026-W31,CLT-1185,eCommerce,Enterprise,2569.68,Paid,5,1,1,0
+2026-W31,CLT-1186,Real Estate,Pro,909.39,Overdue,0,1,0,0
+2026-W31,CLT-1187,eCommerce,Pro,980.57,late,0,1,1,0
+2026-W31,CLT-1188,SaaS,Enterprise,2327.71,Paid,2,1,0,0
+2026-W31,CLT-1189,eCommerce,Pro,792.97,Paid,2,0,0,0
+2026-W31,CLT-1190,eCommerce,Pro,945.12,Paid,1,1,0,0
+2026-W31,CLT-1191,eCommerce,Basic,276.12,Overdue,2,1,0,0
+2026-W31,CLT-1192,Healthcare,Enterprise,2452.73,Overdue,2,1,1,0
+2026-W31,CLT-1193, Healthcare ,Pro,913.24,Paid,2,0,0,0
+2026-W31,CLT-1194,Logistics,Basic,288.25,late,3,1,0,0
+2026-W31,CLT-1195,Education,Basic,322.54,Paid,5,1,0,0
+2026-W31,CLT-1196,Healthcare,Enterprise,2842.74,late,4,1,0,0
+2026-W31,CLT-1197,SaaS,Basic,273.19,Paid,2,1,0,0
+2026-W31,CLT-1198,Real Estate,Basic,376.1,Paid,0,0,1,0
+2026-W31,CLT-1199,eCommerce,Basic,341.68,Paid,2,0,0,0
+2026-W31,CLT-1200,Healthcare,Pro,1166.63,Paid,0,1,0,0
+2026-W31,CLT-1201,Finance,Pro,1103.21,Paid,4,1,0,0
+2026-W31,CLT-1202,Education,Basic,327.34,Paid,3,1,0,0
+2026-W31,CLT-1203,Real Estate,Basic,348.1,Paid,0,1,0,0
+2026-W31,CLT-1204,Logistics,Basic,$335.06,Overdue,3,1,0,0
+2026-W31,CLT-1205,Real Estate,Pro,813.33,Paid,4,1,0,0
+2026-W31,CLT-1206,Logistics,Basic,384.23,Paid,4,1,0,0
+2026-W31,CLT-1207,SaaS,Pro,882.45,Paid,2,1,0,0
+2026-W31,CLT-1208,Finance,enterprise,2481.3,Paid,1,1,0,0
+2026-W31,CLT-1209,SaaS,Pro,786.59,Late,0,1,0,0
+2026-W31,CLT-1210,Finance,Basic,317.02,Overdue,0,1,0,0
+2026-W31,CLT-1211,Healthcare,Enterprise,2412.9,Paid,0,0,0,0
+2026-W31,CLT-1212,Logistics,Basic,364.28,Paid,0,1,0,0
+2026-W31,CLT-1213,Healthcare,Pro,993.92,Paid,3,1,0,0
+2026-W31,CLT-1214,Finance,Basic,349.18,,3,0,0,0
+2026-W31,CLT-1215,Healthcare,Basic,$292.06,Paid,1,1,0,0
+2026-W31,CLT-1216,eCommerce,Pro,956.91,late,3,1,0,0
+2026-W31,CLT-1217,SaaS,Pro,944.2,Overdue,3,0,0,0
+2026-W31,CLT-1218,Finance,Basic,282.17,Paid,3,0,0,0
+2026-W31,CLT-1219,eCommerce,Basic,319.63,Late,2,1,0,0
+2026-W31,CLT-1220,SaaS,Pro,$983.42,Paid,1,1,1,0
+2026-W31,CLT-1221,Logistics,Pro,"$1,045.90",Paid,2,1,0,0
+2026-W31,CLT-1222,Real Estate,Pro,$901.47,Paid,4,1,0,0
+2026-W31,CLT-1223,Real Estate,Enterprise,2529.89,Paid,1,0,0,0
+2026-W31,CLT-1224,Education,Basic,328.87,Paid,3,1,0,0
+2026-W31,CLT-1225,Healthcare,Basic,$372.81,Paid,3,1,0,0
+2026-W31,CLT-1226,Education,Pro,861.6,Paid,1,1,0,0
+2026-W31,CLT-1227, Healthcare ,Enterprise,3024.64,Paid,6,1,0,0
+2026-W31,CLT-1228,Education,Pro,1092.79,Paid,5,1,0,0
+2026-W31,CLT-1229,SaaS,Basic,272.31,Late,1,0,0,0
+2026-W31,CLT-1230,Healthcare,Pro,933.07,Paid,2,1,0,0
+2026-W31,CLT-1231,Logistics,Pro,812.73,Paid,2,1,0,0
+2026-W31,CLT-1232,Finance,Basic,323.55,Overdue,3,1,0,0
+2026-W31,CLT-1233,eCommerce,Pro,1115.55,Overdue,2,1,0,0
+2026-W31,CLT-1234,Real Estate,Basic,380.83,Paid,2,1,0,0
+2026-W31,CLT-1235,Education,Basic,268.73,Overdue,2,0,0,0
+2026-W31,CLT-1236,Logistics,Basic,262.88,Paid,1,1,0,0
+2026-W31,CLT-1237,Healthcare,Basic,364.83,Paid,0,1,0,1
+2026-W31,CLT-1238,Real Estate,Basic,257.93,Paid,0,1,0,0
+2026-W31,CLT-1239,SaaS,Enterprise,3060.17,Paid,0,1,0,0
+2026-W31,CLT-1240,Real Estate,Basic,308.59,Paid,1,1,0,0
+2026-W31,CLT-1241,Real Estate,Pro,1032.0,late,4,1,0,0
+2026-W31,CLT-1242,Finance,Pro,"$1,138.09",Paid,3,1,0,0
+2026-W31,CLT-1243,SaaS,Enterprise,2373.76,Paid,4,1,0,0
+2026-W31,CLT-1244, Healthcare ,Pro,1053.13,Paid,1,1,0,0
+2026-W31,CLT-1245,Education,Basic,333.23,Paid,3,1,0,0
+2026-W31,CLT-1246,SaaS,Basic,371.86,Paid,1,1,0,0
+2026-W31,CLT-1247,Finance,Basic,340.9,Paid,2,1,0,0
+2026-W31,CLT-1248,Education,Pro,1059.68,Paid,4,1,1,0
+2026-W31,CLT-1249,Real Estate,Enterprise,3190.29,Paid,4,1,0,0
+2026-W31,CLT-1250,eCommerce,Basic,309.85,late,2,1,0,0
+2026-W31,CLT-1251,Education,Basic,311.52,Paid,1,1,0,0
+2026-W31,CLT-1252,Education,Enterprise,2214.68,Late,2,1,0,0
+2026-W31,CLT-1253,Real Estate,Pro,1098.86,Paid,1,1,0,0
+2026-W31,CLT-1254,SaaS,Enterprise,2701.13,Overdue,1,1,1,0
+2026-W31,CLT-1255,Finance,Basic,389.17,Paid,1,1,1,0
+2026-W31,CLT-1256,Education,Basic,$303.10,Late,2,1,0,0
+2026-W31,CLT-1257,eCommerce,Enterprise,,Paid,1,0,0,0
+2026-W31,CLT-1258,Education,Basic,311.94,Overdue,2,1,0,0
+2026-W31,CLT-1259,eCommerce,Pro,1103.05,Overdue,4,1,0,0
+2026-W31,CLT-1260,Healthcare,Pro,841.34,Paid,1,0,0,0
+2026-W31,CLT-1261,SaaS,Pro,$794.73,Paid,0,1,1,0
+2026-W31,CLT-1262,SaaS,Basic,291.59,Late,1,1,0,0
+2026-W31,CLT-1263,Healthcare,Basic,367.41,Paid,2,1,0,0
+2026-W31,CLT-1264,Healthcare,Basic,370.67,Paid,1,0,0,0
+2026-W31,CLT-1265,Real Estate,Basic,276.78,Paid,0,1,1,0
+2026-W31,CLT-1266,Education,Enterprise,2459.92,Paid,5,1,0,0
+2026-W31,CLT-1267,Healthcare,Basic,$342.64,Paid,5,1,0,0
+2026-W31,CLT-1268,eCommerce,Pro,863.12,Paid,1,1,0,1
+2026-W31,CLT-1269,SaaS,Basic,368.27,Paid,3,1,0,0
+2026-W31,CLT-1270,Education,Pro,1124.22,Paid,1,0,0,0
+2026-W31,CLT-1271,Real Estate,Pro,860.6,Paid,1,1,0,0
+2026-W31,CLT-1272,eCommerce,Basic,269.23,Late,1,1,0,0
+2026-W31,CLT-1273,SaaS,Pro,$929.76,late,6,1,0,0
+2026-W31,CLT-1274,eCommerce,Basic,316.43,Paid,2,1,0,0
+2026-W31,CLT-1275,Healthcare,Basic,306.93,late,1,1,0,0
+2026-W31,CLT-1276,SaaS,Basic,333.1,Paid,2,1,0,0
+2026-W31,CLT-1277,Education,Basic,389.2,Paid,1,1,0,0
+2026-W31,CLT-1278,Logistics,Pro,856.99,Overdue,3,1,1,0
+2026-W31,CLT-1279,Real Estate,Pro,1148.27,Overdue,5,1,0,1
+2026-W31,CLT-1280,Logistics,Pro,1065.92,Paid,3,1,0,0
+2026-W31,CLT-1281,Logistics,Basic,324.07,Paid,2,1,0,0
+2026-W31,CLT-1282,Real Estate,Pro,880.84,Paid,1,0,0,0
+2026-W31,CLT-1283,Real Estate,Pro,825.41,Paid,0,1,0,0
+2026-W31,CLT-1284,Finance,Basic,270.9,Paid,1,1,0,0
+2026-W31,CLT-1285,Real Estate,Pro,774.12,Paid,5,0,0,0
+2026-W31,CLT-1286,Healthcare,Basic,308.83,Paid,2,1,0,0
+2026-W31,CLT-1287,SaaS,Basic,$314.07,Paid,2,1,0,0
+2026-W31,CLT-1288,Logistics,Basic,298.23,Paid,2,1,0,0
+2026-W31,CLT-1289,SaaS,Basic,369.42,Late,0,1,0,0
+2026-W31,CLT-1290,Logistics,Pro,1093.1,Late,0,1,0,0
+2026-W31,CLT-1291,Healthcare,enterprise,266.05,Paid,2,1,1,0
+2026-W31,CLT-1292,Healthcare,Pro,999.36,Paid,1,1,1,0
+2026-W31,CLT-1293,Education,Pro,832.59,Paid,2,1,0,0
+2026-W31,CLT-1294,eCommerce,Enterprise,2134.1,Late,2,1,0,0
+2026-W31,CLT-1295,Real Estate,Pro,1160.07,Paid,1,1,0,0
+2026-W31,CLT-1296,Finance,Basic,301.69,Paid,1,1,0,0
+2026-W31,CLT-1297,Logistics,enterprise,301.38,Paid,3,1,1,0
+2026-W31,CLT-1298,Real Estate,Pro,853.21,Paid,5,1,1,0
+2026-W31,CLT-1299,Finance,Pro,1119.79,Paid,2,1,0,0
+2026-W31,CLT-1300,Healthcare,Pro,$796.84,Paid,1,1,0,1
+2026-W31,CLT-1301,Education,Basic,333.41,late,1,0,0,0
+2026-W31,CLT-1302,eCommerce,Basic,369.62,Paid,1,1,0,0
+2026-W31,CLT-1303,Education,Pro,1087.22,Paid,1,0,0,0
+2026-W31,CLT-1304,eCommerce,Pro,932.34,Paid,3,1,1,0
+2026-W31,CLT-1305,Real Estate,Basic,338.89,Paid,0,1,0,0
+2026-W31,CLT-1306,eCommerce,Basic,257.53,Paid,2,1,0,0
+2026-W31,CLT-1307,SaaS,Basic,372.53,Paid,1,1,0,1
+2026-W31,CLT-1308,SaaS,Pro,766.68,Late,1,1,0,0
+2026-W31,CLT-1309,Healthcare,Basic,333.85,Paid,2,1,0,0
+2026-W31,CLT-1310,Healthcare,Basic,326.48,late,2,1,0,0
+2026-W31,CLT-1311,Healthcare,Pro,786.01,Overdue,1,1,0,0
+2026-W31,CLT-1312,Logistics,Basic,256.33,Paid,1,1,0,0
+2026-W31,CLT-1313,Real Estate,Pro,855.47,Overdue,1,1,0,0
+2026-W31,CLT-1314,Education,Basic,309.93,Paid,1,0,0,0
+2026-W31,CLT-1315,Education,Pro,1052.69,Paid,4,1,0,0
+2026-W31,CLT-1316,Real Estate,Pro,972.56,,1,1,0,0
+2026-W31,CLT-1317,Finance,Basic,370.13,,2,1,0,0
+2026-W31,CLT-1318,Education,Basic,352.35,Late,1,1,0,0
+2026-W31,CLT-1319,Education,Basic,353.63,Paid,1,1,0,0
+2026-W31,CLT-1320,Finance,enterprise,286.75,Paid,4,1,0,0
+2026-W31,CLT-1321,Logistics,Basic,347.87,Paid,0,1,0,0
+2026-W31,CLT-1322,SaaS,Pro,1021.99,Late,1,1,0,0
+2026-W31,CLT-1323,Real Estate,Pro,1066.0,Paid,0,1,0,0
+2026-W31,CLT-1324,SaaS,Pro,1044.96,Paid,1,1,0,1
+2026-W31,CLT-1325,Real Estate,Pro,982.06,Overdue,2,1,0,0
+2026-W31,CLT-1326,SaaS,Pro,866.7,Paid,2,1,0,0
+2026-W31,CLT-1327,SaaS,Basic,284.69,Paid,3,1,0,0
+2026-W31,CLT-1328,Real Estate,Basic,316.96,Overdue,3,0,0,0
+2026-W31,CLT-1329,Healthcare,Pro,815.43,Paid,0,1,0,1
+2026-W31,CLT-1330,eCommerce,Pro,$969.99,Late,2,1,0,0
+2026-W31,CLT-1331,Real Estate,Basic,265.34,Paid,4,1,0,0
+2026-W31,CLT-1332,Logistics,Basic,274.74,Paid,1,1,0,0
+2026-W31,CLT-1333,Healthcare,Pro,1163.91,late,5,1,0,0
+2026-W31,CLT-1334,Healthcare,Basic,302.34,Paid,1,1,0,0
+2026-W31,CLT-1335,Finance,Basic,376.11,Paid,2,1,0,0
+2026-W31,CLT-1336,eCommerce,Enterprise,3072.19,Paid,2,1,0,0
+2026-W31,CLT-1337,Logistics,Basic,332.56,Paid,1,1,0,0
+2026-W31,CLT-1338,SaaS,Pro,1147.84,Late,1,1,0,0
+2026-W31,CLT-1339,Finance,Pro,1058.73,Paid,2,0,0,0
+2026-W31,CLT-1340,SaaS,Basic,265.85,Paid,2,1,0,0
+2026-W31,CLT-1341,Logistics,Basic,302.27,Paid,2,1,0,0
+2026-W31,CLT-1342, Healthcare ,Basic,342.33,Paid,2,1,0,1
+2026-W31,CLT-1343,Real Estate,Basic,307.54,Paid,2,1,0,0
+2026-W31,CLT-1344,Real Estate,Basic,298.75,Paid,3,1,1,0
+2026-W31,CLT-1345,Logistics,Pro,931.78,Paid,2,1,0,0
+2026-W31,CLT-1346,eCommerce,Basic,308.34,Paid,4,1,0,0
+2026-W31,CLT-1347,Real Estate,Basic,355.83,Paid,4,1,0,0
+2026-W31,CLT-1348,Logistics,Basic,364.19,Late,3,1,0,0
+2026-W31,CLT-1349,Healthcare,Pro,1062.11,Paid,1,1,0,0
+2026-W31,CLT-1350,SaaS,Pro,1035.18,Late,1,1,0,0
+2026-W31,CLT-1351,eCommerce,Basic,359.24,,5,0,0,0
+2026-W31,CLT-1352,SaaS,Pro,911.18,Paid,4,1,0,0
+2026-W31,CLT-1353,SaaS,Basic,,Paid,2,1,0,0
+2026-W31,CLT-1354,Logistics,Pro,909.93,Paid,3,1,0,0
+2026-W31,CLT-1355, Healthcare ,Basic,368.76,Paid,1,1,0,0
+2026-W31,CLT-1356,Logistics,Basic,352.85,,1,1,0,0
+2026-W31,CLT-1357,eCommerce,Basic,328.3,Paid,3,1,0,0
+2026-W31,CLT-1358,Finance,Basic,275.25,Late,2,1,0,0
+2026-W31,CLT-1359,Finance,enterprise,$345.16,Paid,3,1,0,0
+2026-W31,CLT-1360,Finance,Enterprise,2301.13,Paid,0,0,0,0
+2026-W31,CLT-1361,Healthcare,Basic,,Paid,3,1,0,0
+2026-W31,CLT-1362,SaaS,Pro,1078.28,Paid,3,1,0,0
+2026-W31,CLT-1363,Healthcare,Basic,327.75,Paid,3,1,0,0
+2026-W31,CLT-1364,eCommerce,Basic,290.38,Paid,1,1,0,0
+2026-W31,CLT-1365,eCommerce,Basic,381.2,Paid,0,0,0,0
+2026-W31,CLT-1366,Real Estate,Basic,265.82,Paid,3,0,0,0
+2026-W31,CLT-1367,Education,Pro,1078.82,Paid,1,1,0,0
+2026-W31,CLT-1368,Logistics,Pro,1127.83,Paid,4,1,0,0
+2026-W31,CLT-1369,Real Estate,Pro,$843.96,Paid,3,0,0,1
+2026-W31,CLT-1370,Logistics,enterprise,"$1,147.86",Paid,4,1,0,0
+2026-W31,CLT-1371,Healthcare,Pro,$826.83,Paid,0,1,0,0
+2026-W31,CLT-1372,Healthcare,Pro,861.49,Paid,1,1,0,0
+2026-W31,CLT-1373,Real Estate,Pro,,Paid,3,1,0,0
+2026-W31,CLT-1374,Healthcare,Basic,389.18,Paid,2,1,0,0
+2026-W31,CLT-1375,Healthcare,enterprise,303.06,late,3,1,0,0
+2026-W31,CLT-1376,Education,Basic,256.37,Paid,2,1,0,0
+2026-W31,CLT-1377,Real Estate,Pro,1007.55,,1,1,0,0
+2026-W31,CLT-1378,Real Estate,Basic,297.0,Late,1,1,0,1
+2026-W31,CLT-1379,Education,Pro,1143.42,Paid,2,1,0,0
+2026-W31,CLT-1380,Finance,Enterprise,2363.94,Paid,3,1,0,0
+2026-W31,CLT-1381,eCommerce,Pro,"$1,038.25",Paid,1,1,0,0
+2026-W31,CLT-1382,eCommerce,Pro,768.18,late,2,1,0,0
+2026-W31,CLT-1383,Finance,Basic,342.37,Paid,3,1,1,0
+2026-W31,CLT-1384, Healthcare ,Pro,854.26,Paid,2,1,0,0
+2026-W31,CLT-1385,Real Estate,Pro,1125.11,Late,0,1,0,0
+2026-W31,CLT-1386,eCommerce,Enterprise,"$2,385.68",Overdue,0,1,0,0
+2026-W31,CLT-1387,SaaS,Basic,322.73,Paid,2,1,0,0
+2026-W31,CLT-1388,Logistics,Basic,361.93,Overdue,0,1,0,0
+2026-W31,CLT-1389,SaaS,Pro,809.18,Paid,3,1,0,0
+2026-W31,CLT-1390,Finance,Pro,894.21,Paid,0,1,0,0
+2026-W31,CLT-1391,eCommerce,Pro,1112.69,Paid,3,1,0,0
+2026-W31,CLT-1392,Real Estate,Basic,360.3,Paid,1,1,0,0
+2026-W31,CLT-1393,Healthcare,Pro,1095.4,Late,0,1,0,0
+2026-W31,CLT-1394,SaaS,Basic,359.41,Paid,3,1,0,0
+2026-W31,CLT-1395,Education,Basic,346.1,Paid,1,1,0,0
+2026-W31,CLT-1396,eCommerce,Enterprise,"$2,583.09",Late,0,1,0,0
+2026-W31,CLT-1397,Healthcare,Enterprise,3225.69,Paid,2,1,0,0
+2026-W31,CLT-1398,eCommerce,Enterprise,2536.05,Paid,2,1,0,0
+2026-W31,CLT-1399,Logistics,Basic,366.94,Paid,1,1,0,0
+2026-W30,CLT-1008,Logistics,Pro,879.18,Paid,2,1,0,0
+2026-W31,CLT-1110,SaaS,Pro,965.46,late,3,1,0,0
+2026-W30,CLT-1175,SaaS,Basic,261.68,Paid,2,1,0,0
+2026-W31,CLT-1335,Finance,Basic,376.11,Paid,2,1,0,0
+2026-W30,CLT-1242,Finance,Basic,340.82,late,0,1,0,0
+2026-W31,CLT-1364,eCommerce,Basic,290.38,Paid,1,1,0,0
+2026-W31,CLT-1140,SaaS,Pro,880.77,Paid,5,1,0,0
+2026-W31,CLT-1030,Healthcare,Pro,,Paid,2,1,0,0
+2026-W30,CLT-1084,Finance,Enterprise,2521.62,Paid,2,1,0,0
+2026-W31,CLT-1242,Finance,Pro,"$1,138.09",Paid,3,1,0,0
